@@ -5,8 +5,8 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Hit me up on Instagram ;) @jannise510";
-  gif.src = "snoopy.gif"; // Passe "dein_gif.gif" mit dem Namen deines GIFs an
+  question.innerHTML = "Morgen Wiesbaden!!!";
+  gif.src = "celebration-milky-mocha-yay-rr6vg553pj0l9z49-171664675.gif"; // Passe "dein_gif.gif" mit dem Namen deines GIFs an
 });
 
 noBtn.addEventListener("mouseover", () => {
